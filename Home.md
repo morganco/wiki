@@ -11,7 +11,7 @@ The wiki itself is actually a git repository, which means you can clone it, edit
 Go ahead and try:
 
 ```
-$ git clone https://linkaslinkas@bitbucket.org/linkaslinkas/tour-operator.git/wiki
+$ git clone https://github.com/IlyaKireev/wiki.git
 ```
 
 Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
